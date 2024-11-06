@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Persistence
-build_property.ProjectDir = /Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Persistence/
+build_property.ProjectDir = /Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/Net-Core-and-React/Reactivities/Persistence/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
