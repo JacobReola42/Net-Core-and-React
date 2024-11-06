@@ -11,7 +11,8 @@ function App() {
     axios.get("http://localhost:5000/api/activities").then((response) => {
       setActivities(response.data);
     });
-  }, []); // For dependencies. Empty means called once i.e. []
+  }, []);
+  // For dependencies. Empty means called once i.e. []
 
   return (
     <>
