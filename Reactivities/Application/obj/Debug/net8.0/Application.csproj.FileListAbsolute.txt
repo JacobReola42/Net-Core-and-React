@@ -1,0 +1,17 @@
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/bin/Debug/net8.0/Application.deps.json
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/bin/Debug/net8.0/Application.dll
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/bin/Debug/net8.0/Application.pdb
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/bin/Debug/net8.0/Domain.dll
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/bin/Debug/net8.0/Persistence.dll
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/bin/Debug/net8.0/Domain.pdb
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/bin/Debug/net8.0/Persistence.pdb
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/obj/Debug/net8.0/Application.dll
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/obj/Debug/net8.0/Application.pdb
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Application/obj/Debug/net8.0/ref/Application.dll

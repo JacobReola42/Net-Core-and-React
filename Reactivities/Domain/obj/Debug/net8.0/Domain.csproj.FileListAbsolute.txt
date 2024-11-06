@@ -1,0 +1,11 @@
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Domain/bin/Debug/net8.0/Domain.dll
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.dll
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/jacobreola/Documents/github/complete guide to building an app with .netcore and react/demo/Reactivities/Domain/obj/Debug/net8.0/ref/Domain.dll
