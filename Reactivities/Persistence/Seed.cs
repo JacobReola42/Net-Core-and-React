@@ -1,3 +1,5 @@
+/* 13 static */
+
 using Domain;
 
 namespace Persistence
