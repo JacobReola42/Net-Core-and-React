@@ -9,6 +9,9 @@ import ActivityDashboard from "../../features/activities/dashboard/ActivityDashb
 
 function App() {
   const [activities, setActivities] = useState<Activity[]>([]);
+  const [selectedActivity, setSelectedActivity] = useState<
+    Activity | undefined
+  >(undefined);
 
   useEffect(() => {
     axios
@@ -19,6 +22,14 @@ function App() {
   }, []);
   // For dependencies. Empty means called once i.e. []
 
+  function handleSelectActivity(id: string) {
+    setSelectedActivity(activities.find((x) => x.id === id));
+  }
+
+  function handleCancelSelectActivity() {
+    setSelectedActivity(undefined);
+  }
+
   return (
     // Fragment removes the useless div from html output to the browser 48.
     // Fragment helps keep the Navbar and container return same level and not 2 different elements.
@@ -26,7 +37,12 @@ function App() {
     <>
       <NavBar />
       <Container style={{ marginTop: "7em" }}>
-        <ActivityDashboard activities={activities} />
+        <ActivityDashboard
+          activities={activities}
+          selectedActivity={selectedActivity}
+          selectActivity={handleSelectActivity}
+          cancelSelectActivity={handleCancelSelectActivity}
+        />
       </Container>
     </>
     // </Fragment>
