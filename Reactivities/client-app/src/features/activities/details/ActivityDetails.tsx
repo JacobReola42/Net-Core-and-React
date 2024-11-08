@@ -4,7 +4,6 @@ import {
   CardContent,
   CardDescription,
   CardMeta,
-  Icon,
   Image,
 } from "semantic-ui-react";
 import { Activity } from "../../../app/models/activity";
