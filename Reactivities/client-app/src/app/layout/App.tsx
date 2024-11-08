@@ -40,6 +40,17 @@ function App() {
     setEditMode(false);
   }
 
+  function handleCreateOrEditActivity(activity: Activity) {
+    activity.id
+      ? setActivities([
+          ...activities.filter((x) => x.id !== activity.id),
+          activity,
+        ])
+      : setActivities([...activities, activity]);
+    setEditMode(false);
+    setSelectedActivity(activity);
+  }
+
   return (
     // Fragment removes the useless div from html output to the browser 48.
     // Fragment helps keep the Navbar and container return same level and not 2 different elements.
@@ -55,6 +66,7 @@ function App() {
           editMode={editMode}
           openForm={handleFormOpen}
           closeForm={handleFormClose}
+          createOrEdit={handleCreateOrEditActivity}
         />
       </Container>
     </>
