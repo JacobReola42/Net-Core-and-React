@@ -52,6 +52,10 @@ function App() {
     setSelectedActivity(activity);
   }
 
+  function handleDeleteActivity(id: string) {
+    setActivities([...activities.filter((x) => x.id !== id)]);
+  }
+
   return (
     // Fragment removes the useless div from html output to the browser 48.
     // Fragment helps keep the Navbar and container return same level and not 2 different elements.
@@ -68,6 +72,7 @@ function App() {
           openForm={handleFormOpen}
           closeForm={handleFormClose}
           createOrEdit={handleCreateOrEditActivity}
+          deleteActivity={handleDeleteActivity}
         />
       </Container>
     </>
